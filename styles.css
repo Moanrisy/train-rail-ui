@@ -1,0 +1,35 @@
+.header {
+    background-image: url("img2.jpg");
+    background-position: top;
+    background-size: cover;
+    color: white;
+}
+
+.header p {
+    padding-left: 10px;
+}
+
+.header i {
+    color: red;
+}
+
+.peta-btn {
+    width: 100%;
+    background-color: blue;
+    color: white;
+    margin: 10px 0;
+}
+
+.railway {
+    display: flex;
+    margin: 10px 0;
+}
+
+.railway .detail-btn {
+    border: none;
+    color: black;
+}
+
+#search {
+    width: 100%;
+}
